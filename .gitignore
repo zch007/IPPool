@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[c|o]
+.idea
+backend/settings_local.py
+crawler/settings/settings_local.py
+_build/
+.env/
+.vscode/
+env/
+venv/
+*migrations/
+.python-version
+data/
